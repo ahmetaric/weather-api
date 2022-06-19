@@ -2,7 +2,7 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-005 : Weather_Condition_App (JS-05)
-[click here!](https://ahmetaric.github.io/stopwatch/)
+[click here!](https://ahmetaric.github.io/weather-api/)
 
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
